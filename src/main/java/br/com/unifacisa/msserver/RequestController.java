@@ -1,4 +1,4 @@
-package br.com.unifacisa.msserver.controller;
+package br.com.unifacisa.msserver;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
